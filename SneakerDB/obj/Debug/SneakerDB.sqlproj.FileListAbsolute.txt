@@ -1,0 +1,16 @@
+C:\Users\PC\OneDrive - Mapúa University\Desktop\Josh\SneakerDB\bin\Debug\SneakerDB.dacpac
+C:\Users\PC\OneDrive - Mapúa University\Desktop\Josh\SneakerDB\bin\Debug\SneakerDB.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\Josh\SneakerDB\bin\Debug\SneakerDB.pdb
+C:\Users\PC\OneDrive - Mapúa University\Desktop\Josh\SneakerDB\obj\Debug\SneakerDB.sqlproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - Mapúa University\Desktop\Josh\SneakerDB\obj\Debug\SneakerDB.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\Josh\SneakerDB\obj\Debug\SneakerDB.pdb
+D:\M1-PARTIAL\Josh\SneakerDB\bin\Debug\SneakerDB.dacpac
+D:\M1-PARTIAL\Josh\SneakerDB\bin\Debug\SneakerDB.dll
+D:\M1-PARTIAL\Josh\SneakerDB\bin\Debug\SneakerDB.pdb
+D:\M1-PARTIAL\Josh\SneakerDB\obj\Debug\SneakerDB.sqlproj.AssemblyReference.cache
+D:\M1-PARTIAL\Josh\SneakerDB\obj\Debug\Model.xml
+D:\M1-PARTIAL\Josh\SneakerDB\obj\Debug\refactor.xml
+D:\M1-PARTIAL\Josh\SneakerDB\obj\Debug\postdeploy.sql
+D:\M1-PARTIAL\Josh\SneakerDB\obj\Debug\predeploy.sql
+D:\M1-PARTIAL\Josh\SneakerDB\obj\Debug\SneakerDB.dll
+D:\M1-PARTIAL\Josh\SneakerDB\obj\Debug\SneakerDB.pdb
